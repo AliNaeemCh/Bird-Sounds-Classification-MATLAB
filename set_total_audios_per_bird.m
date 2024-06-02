@@ -1,0 +1,4 @@
+function set_total_audios_per_bird(val)
+global total_audios_per_bird
+total_audios_per_bird=val;
+end

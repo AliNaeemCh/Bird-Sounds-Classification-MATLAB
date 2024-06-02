@@ -1,0 +1,4 @@
+function get=get_total_audios_per_bird
+global total_audios_per_bird
+get=total_audios_per_bird;
+end

@@ -1,0 +1,4 @@
+function get=gettotalmelfilterbanks
+global totalmelfilterbanks;
+get=totalmelfilterbanks;
+end
