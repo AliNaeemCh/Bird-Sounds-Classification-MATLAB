@@ -77,3 +77,7 @@ The classifier accuracy for each bird species at varying distances between the m
 | Barn Owl                  | 100%     | 100%      | 100%       |
 
 The accuracy highlights the effectiveness of the classifier under varying conditions. Notably, the performance for the **Nightjar** species at a 100 cm distance dropped significantly, indicating potential challenges in capturing its sound at longer distances.
+
+## Link to Report
+For more details follow this link:
+[FYP Report PDF](https://drive.google.com/file/d/13eJ0UiFhMFCfzR7BSdSnQwxalj1m_epC/view?usp=sharing)
